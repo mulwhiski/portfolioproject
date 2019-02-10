@@ -4,8 +4,7 @@
 ##Description
 This is web page design project at moringa school to learn how to use html and css languages in programming.
 ##set up
-*visit github web pages
-*visit https:/github.com/mulwhiski/portfolioproject.git
+*visit mulwhiski.github.io/portfoliofile using ur browser
 ###license
 MIT licence
 copyright(c) 2019 DENIS MARSHALL MULWA
